@@ -26,11 +26,6 @@
  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 <div>
 
- 
-<a href="https://github.com/marianovictor">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianovictor&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianovictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ### Entre em contato comigo! 📭
 
