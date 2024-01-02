@@ -2,7 +2,7 @@
 ### Olá pessoal!! :wave: 
 ## Meu nome é Victor Mariano Rocha.
 
- Sou **estudante de ciências da computação na UNESP** 	:school_satchel: e estou participando do curso de desenvolvimento de software-com foco em backend, pela Cubos Academy :computer:.
+ Sou **estudante de ciências da computação na UNESP** 	:school_satchel: e participei do curso de desenvolvimento de software-com foco em backend, pela Cubos Academy :computer:.
 
 :man_technologist: Já atuei como diretor de projetos e desenvolvedor frontend pela empresa junior da faculdade(InfoJr).
 
